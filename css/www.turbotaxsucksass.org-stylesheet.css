@@ -1,0 +1,27 @@
+body {
+ background-color:#edf1f7;
+ font-family: "proxima nova", "Helvetica Neue", Helvetica, Arial, sans serif, Poppins;
+ font-style: normal;
+}
+.option{
+ display: inline-block;
+ margin: 20px;
+ width: 300px;
+ padding: 10px;
+}
+.notebox{
+ background-color: #3087df;
+ color: #fff;
+ margin: auto;
+ text-align: center;
+ width: 50%;
+ height: 30px;
+ padding: 10px;
+}
+a.notebox{
+ text-decoration: none;
+}
+.companylogo{
+ width: 95%;
+ margin: auto;
+}
